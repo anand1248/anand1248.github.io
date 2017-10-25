@@ -1,0 +1,10 @@
+{
+    "appId": "onblogs",
+    "apiKey": "d7e010c1c1481a8593b9385239b2a3b7b7259a4ddb46958c3c7011730a7677f1",
+    "public": "./",
+    "ignore": [
+        "stamplay.json",
+        "**/.*",
+        "**/node_modules/**"
+    ]
+}
